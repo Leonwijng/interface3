@@ -219,7 +219,8 @@
                     
                     <!-- Checkout Form -->
                     <div class="md:w-2/3">
-                        <form id="checkoutForm" onsubmit="submitOrder(event)" novalidate>
+                        <form method="post" action="index_verwerk.php">
+
                             <h3 class="font-bold text-lg mb-4">Persoonlijke gegevens</h3>
                             
                             <div class="mb-4">

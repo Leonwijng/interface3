@@ -133,7 +133,7 @@
                 <p class="text-gray-600 mb-4">Super mooie pannenset</p>
                 <div class="flex justify-between items-center">
                   <span class="text-lg font-bold text-gray-900">€350</span>
-                  <a href="pannenset.html" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-md transition-colors duration-300">
+                  <a href="pannenset.php" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-md transition-colors duration-300">
                     Kopen
                     
                   </a>
